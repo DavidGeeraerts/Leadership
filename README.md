@@ -25,5 +25,7 @@ Leadership reading list
 
 ## Off the beaten path
 
+- The Scout Mindset: Why Some People See Things Clearly and Others Don't -- Julia Galef
 - Recapture the Rapture: Rethinking God, Sex, and Death in a World That's Lost Its Mind -- Jamie Wheal
 - The Matter With Things: Our Brains, Our Delusions and the Unmaking of the World -- Iain McGilchrist
+- The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom -- Jonathan Haidt
