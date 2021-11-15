@@ -29,3 +29,4 @@ Leadership reading list
 - Recapture the Rapture: Rethinking God, Sex, and Death in a World That's Lost Its Mind -- Jamie Wheal
 - The Matter With Things: Our Brains, Our Delusions and the Unmaking of the World -- Iain McGilchrist
 - The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom -- Jonathan Haidt
+- Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones -- James Clear
