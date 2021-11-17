@@ -3,7 +3,7 @@ Leadership reading list
 
 ## Titles
 
-- How to Win Friends & Influence People -- Dale Carnegie
+- [How to Win Friends & Influence People](./doc/How to Win Friends & Influence People.md) -- [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie)
 - Leaders Eat Last -- Simon Sinek
 - Start with Why: How Great Leaders Inspire Everyone to Take Action -- Simon Sinek
 - Learning to Lead -- Warren Bennis
