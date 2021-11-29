@@ -1,6 +1,8 @@
 # Leadership
 Leadership reading list
 
+![Shackeltons-1914-expedition](./images/Shackeltons-1914-expedition.jpg)
+
 ## Titles
 
 - [How to Win Friends & Influence People](https://github.com/DavidGeeraerts/Leadership/blob/main/doc/How%20to%20Win%20Friends%20%26%20Influence%20People.md) -- [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie)
