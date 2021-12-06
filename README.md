@@ -1,6 +1,17 @@
 # Leadership
 Leadership reading list
 
+Leader's are going somewhere (vision). They have a goal in mind.
+
+Diffirent leaders for different situations.
+
+What makes a good leader?
+
+- Someone who tells the truth (honesty).
+- Someone who listens.
+- Someone who identifies the right questions.
+ 
+
 ![Shackeltons-1914-expedition](./images/Shackeltons-1914-expedition.jpg)
 
 ## Titles
@@ -11,11 +22,11 @@ Leadership reading list
 - Learning to Lead -- Warren Bennis
 - On Becoming a Leader -- Warren Bennis
 - The Power Pradox -- Dacher Kellner
+- Discipline Equals Freedom: Field Manual -- Jocko Willink
+- Extreme Ownership -- Jocko Willink
+- The Dichotomy of Leadership: Balancing the Challenges of Extreme Ownership to Lead and Win -- Jocko Willink
 - The Righteous Mind -- Jonathan Haidt
 - How to Have Impossible Conversations -- Peter Boghossian
-- Extreme Ownership -- Jocko Willink
-- Discipline Equals Freedom: Field Manual -- Jocko Willink
-- The Dichotomy of Leadership: Balancing the Challenges of Extreme Ownership to Lead and Win -- Jocko Willink
 - Primed to Perform -- Neel Dosh
 - Team of Teams -- Gen. Stanely McChrystal
 - Team Genius -- Rich Karlgaard
