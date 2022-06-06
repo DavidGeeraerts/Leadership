@@ -28,6 +28,7 @@ What makes a good leader?
 - Primed to Perform -- Neel Dosh
 - Team of Teams -- Gen. Stanely McChrystal
 - Team Genius -- Rich Karlgaard
+- I Love It Here: How Great Leaders Create Organizations Their People Never Want to Leave -- Clint Pulver
 
 
 ## Off the beaten path
