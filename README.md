@@ -5,6 +5,8 @@ Leader's are going somewhere (vision). They have a goal in mind.
 
 Diffirent leaders for different situations.
 
+"Leadership is not about being in charge. It is about taking care of those in our charge"
+
 What makes a good leader?
 
 - Someone who tells the truth (honesty).
