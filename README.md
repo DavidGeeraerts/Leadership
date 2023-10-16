@@ -31,6 +31,7 @@ What makes a good leader?
 - Team of Teams -- Gen. Stanely McChrystal
 - Team Genius -- Rich Karlgaard
 - I Love It Here: How Great Leaders Create Organizations Their People Never Want to Leave -- Clint Pulver
+- [You Don't Create a Culture](https://youtu.be/MwHK6oaxyrM?si=sf8T2XmXxWbjmIze)
 
 
 ## Off the beaten path
