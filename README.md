@@ -12,7 +12,11 @@ What makes a good leader?
 - Someone who tells the truth (honesty).
 - Someone who listens.
 - Someone who identifies the right questions.
- 
+
+Leaders...
+- Diffuse
+- Unify
+- are the Glue
 
 ![Shackeltons-1914-expedition](./images/Shackeltons-1914-expedition.jpg)
 
