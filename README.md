@@ -7,6 +7,8 @@ Diffirent leaders for different situations.
 
 "Leadership is not about being in charge. It is about taking care of those in our charge"
 
+"Leaders without wisdom are fools"
+
 What makes a good leader?
 
 - Someone who tells the truth (honesty).
