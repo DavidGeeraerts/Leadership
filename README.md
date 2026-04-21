@@ -53,3 +53,7 @@ Leaders...
 - The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom -- Jonathan Haidt
 - Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones -- James Clear
 - The Seven Habits of Highly Effective People -- Steven R. Covey
+
+## Videos
+
+- [Simon Sinek][The Leadership Advice Nobody Follows (But Everyone Should) from Top Leadership Expert](https://youtu.be/H0O-_h5xJmc?si=oOXti5hu1AyJaX4m)
